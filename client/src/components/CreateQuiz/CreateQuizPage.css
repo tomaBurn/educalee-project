@@ -1,0 +1,29 @@
+.create-wrapper { 
+  margin: 32px;
+  background: 'white';
+  padding: 24;
+  border-radius: 4px;;
+}
+
+.name,
+.date
+{ 
+  width: 245px
+}
+
+.name-input { 
+  width: 250px
+}
+
+.date-input {
+  width: 138px;
+}
+
+.time-input {
+  width: 112px
+}
+
+.create-quiz-btn {
+   margin-top: 16px;
+  margin-bottom: 16px;
+}

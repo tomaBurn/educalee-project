@@ -1,0 +1,18 @@
+.register-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.register-holder {
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px 20px 20px 32px; 
+  width: 375px;
+  margin: 75px;
+}
+
+.register-btn {
+  margin-top: 16px;
+  margin-left: 16px;
+}

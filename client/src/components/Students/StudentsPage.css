@@ -1,0 +1,51 @@
+.students-grid {
+  display: grid;
+  grid-template-columns: 220px 100px 187px 200px;
+  grid-row-gap: 8px;
+}
+
+.stud-username-col {
+  grid-column: 1;
+}
+
+.stud-username-header {
+  margin: 8px 20px 0 0;
+}
+
+.remove-stud-btn {
+  grid-column: 2;
+}
+
+.edit-stud-btn {
+  grid-column: 3;
+}
+
+.check-pass-btn {
+  grid-column: 4;
+}
+
+.stud-info {
+  margin-top: 24px;
+  width: 500px;
+}
+
+.stud-info-name {
+  grid-row: 1;
+}
+
+.stud-info-mail {
+  grid-row: 2;
+}
+
+.stud-list-divider {
+  margin-top: 16px;
+}
+
+.add-stud-row {
+  margin-bottom: 8px;
+}
+
+.add-stud-btn {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}

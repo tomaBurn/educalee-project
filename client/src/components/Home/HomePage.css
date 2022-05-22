@@ -1,0 +1,37 @@
+.grid {
+    display: grid;
+    grid-template-columns: 270px;
+    margin-top: 8px;
+}
+
+.add-quiz {
+    grid-column: 2;
+    padding-top: 12px;
+}
+
+.add-button {
+    margin-right: 8px;
+}
+
+.quiz-row {
+    grid-column: 1;
+    padding-top: 24px;
+}
+
+.del-button {
+    grid-column: 2;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.holder {
+    background: #fff;
+    border-radius: 5px;
+    padding: 20px 20px 20px 32px; 
+    width: 100%;
+}
+
+.level-header {
+    margin-top: 8px;
+    padding-top: 8px;
+}

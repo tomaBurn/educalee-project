@@ -1,0 +1,9 @@
+#blocklyDiv {
+  height: 600px;
+  position: static;
+  bottom: 0;
+}
+
+.blocklySvg {
+  height: 100%;
+}

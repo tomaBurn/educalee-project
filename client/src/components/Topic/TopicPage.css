@@ -1,0 +1,18 @@
+.topic-page-holder {
+  padding: 24px;
+}
+
+.topic-header {
+  padding-top: 16px;
+}
+
+.topic-btn-back { 
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.topic-btn-submit {
+  margin-top: 16px;
+  margin-left: 8px;
+  margin-bottom: 16px;
+}

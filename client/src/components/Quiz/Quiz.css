@@ -1,0 +1,20 @@
+.quiz-grid {
+  display: grid;
+  width: 250px;
+}
+
+.check-ans-btn {
+  grid-row: 1;
+  grid-column: 1;
+}
+
+.next-qstn-btn {
+  grid-row: 1;
+  grid-column: 2;
+}
+
+.time-spinner {
+  grid-row: 1;
+  grid-column: 3;
+  padding-top: 20px;
+}
